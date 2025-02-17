@@ -1,0 +1,4 @@
+setopt EXTENDED_GLOB
+
+unsetopt CORRECT
+unsetopt CORRECT_ALL
